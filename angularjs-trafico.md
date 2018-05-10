@@ -20,3 +20,8 @@ https://angular-ui.github.io/bootstrap/#!#pagination
 - delete button with confirmation: https://codepen.io/edanny/pen/XNEweg
 - Uso de ng-style: https://jsfiddle.net/nekyouto/BYHm5/
 - Como esconder paginación: https://stackoverflow.com/questions/39172551/angularjs-ui-bootstrap-pagination-hide-buttons-on-single-page
+
+- mixins less: https://css-tricks.com/snippets/css/useful-css3-less-mixins/
+- --- https://webdesign.tutsplus.com/tutorials/making-gradients-easier-with-less-mixins--cms-24072
+
+Crear sitio estático con React: http://astronautweb.co/react-static-sites/
