@@ -34,3 +34,6 @@ Crear sitio estático con React: http://astronautweb.co/react-static-sites/
 - --- https://github.com/vitalets/angular-xeditable/issues/41
 - --- http://jsfiddle.net/NfPcH/215/
 - --- http://jsfiddle.net/NfPcH/219/
+
+#### usar jquery en controladores:
+- https://stackoverflow.com/questions/22714286/call-jquery-function-from-angularjs-controller
