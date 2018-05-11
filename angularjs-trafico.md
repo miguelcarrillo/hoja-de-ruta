@@ -25,3 +25,12 @@ https://angular-ui.github.io/bootstrap/#!#pagination
 - --- https://webdesign.tutsplus.com/tutorials/making-gradients-easier-with-less-mixins--cms-24072
 
 Crear sitio estático con React: http://astronautweb.co/react-static-sites/
+
+@11 de mayo de 2018
+
+- x-editable mostrar edición a crear:
+- --- https://stackoverflow.com/questions/20024991/editable-with-ngrepeat-automatically-editing-the-latest-added-item
+- --- http://jsfiddle.net/sm0j1qyf/
+- --- https://github.com/vitalets/angular-xeditable/issues/41
+- --- http://jsfiddle.net/NfPcH/215/
+- --- http://jsfiddle.net/NfPcH/219/
